@@ -1,0 +1,18 @@
+body {
+  margin: 80px 1000px 40px 100px;
+  padding: 0 0 0 0;
+  background-color: beige;
+}
+
+form {
+  padding: 40px 40px 40px 40px;
+  border-style: groove;
+  background-color: azure;
+}
+form #trigger {
+  border: 0 0 0 0;
+  padding: 2px 0 2px 0;
+  margin: 15px 0 0 0;
+}
+
+/*# sourceMappingURL=style.css.map */
